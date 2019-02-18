@@ -1,0 +1,5 @@
+- rails new blog
+  - will create the new app blog and install gem dependencies
+
+- rails new -h
+  - all commands required to create a new project
