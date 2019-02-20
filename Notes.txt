@@ -5,3 +5,5 @@
   - all commands required to create a new project
 
 Added SSH keys - only for github ssh testing
+
+- rails routes to get all the routes in the application
